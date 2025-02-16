@@ -15,8 +15,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 3. Follow the on-screen instructions to complete the installation.
 
 ### macOS
-1. Download the AGNT.app file.
-2. Drag the AGNT.app file to your Applications folder.
+1. Download the AGNT.dmg file.
+2. Drag the AGNT.dmg file to your Applications folder.
 3. Double-click the AGNT app icon to launch the application.
 
 ## System Requirements
