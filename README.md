@@ -4,7 +4,7 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT.exe)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.3.exe)
 - [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.3-arm64.dmg)
 
 ## Installation Instructions
