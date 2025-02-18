@@ -4,8 +4,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.4.exe)
-- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.4-arm64.dmg)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.5.exe)
+- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.5-arm64.dmg)
 
 ## Installation Instructions
 
@@ -17,8 +17,7 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 ### macOS
 1. Download the AGNT.dmg file.
 2. Drag the AGNT.dmg file to your Applications folder.
-3. IMPORTANT: Open the terminal (cmd + space) and run the command "sudo xattr -cr /Applications/AGNT.app" to bypass the Apple error.
-4. Double-click the AGNT app icon to launch the application.
+3. Double-click the AGNT app icon to launch the application.
 
 ## System Requirements
 
@@ -34,7 +33,13 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Changelog
 
-### Version 0.1.4 (Latest)
+### Version 0.1.5 (Latest)
+- Implemented persistent database storage across updates
+- Enhanced cross-platform compatibility for database location
+- Improved error handling and logging for database operations
+- General performance improvements and bug fixes
+
+### Version 0.1.4
 - Improved email trigger handling for workflows
 - Enhanced error logging and reporting
 - Fixed issues with repeated trigger processing
@@ -46,9 +51,9 @@ If you encounter any issues during download or installation, please reach out to
 
 ## Version Information
 
-Current version: 0.1.4
+Current version: 0.1.5
 
-Last updated: [2-17-2025]
+Last updated: [3-15-2025]
 
 For full release notes and version history, please visit our [official website](https://agnt.gg/).
 
