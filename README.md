@@ -47,7 +47,7 @@ If you encounter any issues during download or installation, please reach out to
 
 Current version: 0.1.4
 
-Last updated: [2-23-2025]
+Last updated: [2-17-2025]
 
 For full release notes and version history, please visit our [official website](https://agnt.gg/).
 
