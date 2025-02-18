@@ -17,7 +17,7 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 ### macOS
 1. Download the AGNT.dmg file.
 2. Drag the AGNT.dmg file to your Applications folder.
-3. Open Terminal and run the following command:
+3. Open Terminal (cmd + space, type terminal, enter) and run the following command:
    ```
    sudo xattr -cr /Applications/AGNT.app
    ```
