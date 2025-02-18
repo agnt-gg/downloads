@@ -4,8 +4,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.3.exe)
-- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.3-arm64.dmg)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.4.exe)
+- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.4-arm64.dmg)
 
 ## Installation Instructions
 
@@ -31,17 +31,25 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 - 4 GB RAM (8 GB recommended)
 - 500 MB free disk space
 
+## Changelog
+
+### Version 0.1.4 (Latest)
+- Improved email trigger handling for workflows
+- Enhanced error logging and reporting
+- Fixed issues with repeated trigger processing
+- General performance improvements and bug fixes
+
 ## Support
 
 If you encounter any issues during download or installation, please reach out to our discord: https://discord.com/invite/nwXJMnHmXP
 
 ## Version Information
 
-Current version: 0.1.2
+Current version: 0.1.4
 
-Last updated: [2-16-2025]
+Last updated: [2-23-2025]
 
-For release notes and version history, please visit our [official website](https://agnt.gg/).
+For full release notes and version history, please visit our [official website](https://agnt.gg/).
 
 ---
 
