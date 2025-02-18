@@ -17,7 +17,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 ### macOS
 1. Download the AGNT.dmg file.
 2. Drag the AGNT.dmg file to your Applications folder.
-3. Double-click the AGNT app icon to launch the application.
+3. IMPORTANT: Open the terminal (cmd + space) and run the command "sudo xattr -cr /Applications/AGNT.app" to bypass the Apple error.
+4. Double-click the AGNT app icon to launch the application.
 
 ## System Requirements
 
