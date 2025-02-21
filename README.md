@@ -4,8 +4,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.5.exe)
-- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.5-arm64.dmg)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.6.exe)
+- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.6-arm64.dmg)
 
 ## Installation Instructions
 
@@ -38,7 +38,14 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Changelog
 
-### Version 0.1.5 (Latest)
+### Version 0.1.6 (Latest)
+- Enhanced stability and reliability of custom code execution
+- Implemented robust error reporting for unresolved templates and null values
+- Optimized performance of the JavaScript sandbox environment
+- Added timeout mechanism to prevent hanging of long-running scripts
+- Improved logging and debugging capabilities for custom scripts
+
+### Version 0.1.5
 - Implemented persistent database storage across updates
 - Enhanced cross-platform compatibility for database location
 - Improved error handling and logging for database operations
@@ -56,9 +63,9 @@ If you encounter any issues during download or installation, please reach out to
 
 ## Version Information
 
-Current version: 0.1.5
+Current version: 0.1.6
 
-Last updated: [3-15-2025]
+Last updated: [2-20-2025]
 
 For full release notes and version history, please visit our [official website](https://agnt.gg/).
 
