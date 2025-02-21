@@ -39,9 +39,9 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 ## Changelog
 
 ### Version 0.1.7 (Latest)
-- Updated dependencies for improved performance and security.
 - Added support for images in Google Slides presentations.
 - Enhanced error handling for image loading in Google Slides integration.
+- Updated dependencies for improved performance and security.
 - General bug fixes and performance improvements.
 
 ### Version 0.1.6
