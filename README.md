@@ -4,8 +4,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.6.exe)
-- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.6-arm64.dmg)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.1.7.exe)
+- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.1.7-arm64.dmg)
 
 ## Installation Instructions
 
@@ -38,7 +38,13 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Changelog
 
-### Version 0.1.6 (Latest)
+### Version 0.1.7 (Latest)
+- Updated dependencies for improved performance and security.
+- Added support for images in Google Slides presentations.
+- Enhanced error handling for image loading in Google Slides integration.
+- General bug fixes and performance improvements.
+
+### Version 0.1.6
 - Enhanced stability and reliability of custom code execution
 - Implemented robust error reporting for unresolved templates and null values
 - Optimized performance of the JavaScript sandbox environment
@@ -63,9 +69,9 @@ If you encounter any issues during download or installation, please reach out to
 
 ## Version Information
 
-Current version: 0.1.6
+Current version: 0.1.7
 
-Last updated: [2-20-2025]
+Last updated: [2-21-2025]
 
 For full release notes and version history, please visit our [official website](https://agnt.gg/).
 
