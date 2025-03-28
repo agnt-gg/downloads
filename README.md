@@ -4,8 +4,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.2.1.exe)
-- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.2.1-arm64.dmg)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.2.2.exe)
+- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.2.2-arm64.dmg)
 
 ## Installation Instructions
 
@@ -38,11 +38,16 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Changelog
 
-### Version 0.2.1 (Latest)
+### Version 0.2.2 (Latest)
+- Updated and reordered tool names for better organization
+- Fixed several minor bugs
+- General performance improvements
+
+### Version 0.2.1
 - Added new SLOP tool node (runs any SLOP server)
+- Added Notion integration
 - Updated Twitter tool with improved features
 - Implemented various UX / UI bug fixes for a smoother user experience
-- Added Notion integration
 
 ### Version 0.2.0
 - Implemented MCP client node (runs any SSE based MCP server)
@@ -95,9 +100,9 @@ If you encounter any issues during download or installation, please reach out to
 
 ## Version Information
 
-Current version: 0.2.1
+Current version: 0.2.2
 
-Last updated: [3-27-2025]
+Last updated: [3-28-2025]
 
 For full release notes and version history, please visit our [official website](https://agnt.gg/).
 
