@@ -4,8 +4,8 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Download Links
 
-- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.2.2.exe)
-- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.2.2-arm64.dmg)
+- [AGNT for Windows](https://agnt.gg/downloads/AGNT-0.2.3.exe)
+- [AGNT for macOS](https://agnt.gg/downloads/AGNT-0.2.3-arm64.dmg)
 
 ## Installation Instructions
 
@@ -38,7 +38,13 @@ This repository contains the latest versions of AGNT for Windows and macOS.
 
 ## Changelog
 
-### Version 0.2.2 (Latest)
+### Version 0.2.3 (Latest)
+- Fixed JSON parsing error in tool generation
+- Improved error handling for markdown code block delimiters
+- Enhanced StreamEngine class to remove JSON ticks from tool responses
+- General performance improvements and bug fixes
+
+### Version 0.2.2
 - Updated and reordered tool names for better organization
 - Fixed several minor bugs
 - General performance improvements
@@ -100,7 +106,7 @@ If you encounter any issues during download or installation, please reach out to
 
 ## Version Information
 
-Current version: 0.2.2
+Current version: 0.2.3
 
 Last updated: [3-28-2025]
 
